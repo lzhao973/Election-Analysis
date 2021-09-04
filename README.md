@@ -12,5 +12,6 @@ After we know who win the election and the winning count, we also want to know v
             winning_candidate = candidate_name
             winning_percentage = vote_percentage
 <img width="374" alt="Screen Shot 2021-09-04 at 3 44 31 PM" src="https://user-images.githubusercontent.com/88211298/132109678-961d9462-920e-4d95-8dd5-f6857564abf7.png">
+
 ## Election-Audit Summary:
 First, we should read different csv file and find its directory. And then we need to change the os.join.path to load and save in different files and create a new txt file to write as well. Probably pay attention to the csv file and check the first row has the same categories as this code, if not, we have to change the row[] in the following csv file.
